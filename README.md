@@ -42,19 +42,6 @@
 
 
 
-![Rajat's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CodewithShivali&theme=gotham&layout=compact&langs_count=8&hide_border=true)
+![Shivali's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CodewithShivali&theme=gotham&layout=compact&langs_count=8&hide_border=true)
 
 
-
-
-<br />
-
----
-
-
-
-### Now Playing 🎧
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
-<br/>
----
