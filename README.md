@@ -1,4 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=436DD7=&size=35&width=750&duration=6969&lines=Hi+There+Shivali+Rawat👋+.....)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=+Hi,+There+Shivali+Rawat+.....!!+%F0%9F%91%8B%F0%9F%8F%BB;competitive+programmer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+India+%F0%9F%87%AE%F0%9F%87%B3;i'm+currently+pursuing+B.TECH+CSE+%F0%9F%93%88;In+building+Frontend+infrastructures+%E2%9A%99%EF%B8%8F" alt="Shivali rawat" width="650" height="55">
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<p>
+
 
 
   ![Top Graph](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
